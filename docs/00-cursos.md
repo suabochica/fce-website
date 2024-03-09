@@ -1,4 +1,5 @@
-## 🤓 Cursos
+🤓 Cursos
+=========
 
 Para Astro es recomendable ver la lista de reproducción de Miguel Durán:
 
@@ -7,3 +8,8 @@ Para Astro es recomendable ver la lista de reproducción de Miguel Durán:
 Como curso complementario:
 
 -[Sitio web con AI](https://www.youtube.com/watch?v=wlFQMVwU27c)
+
+Referencias
+-----------
+
+- [Fédératio Francaise d'Escrime](https://www.ffescrime.fr)

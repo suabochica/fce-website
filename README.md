@@ -4,10 +4,9 @@ Repositorio para con el código de la página web de la federación colombiana d
 
 ## 🧰 Tecnologías
 
-- [pnpm v4]() como gestor de paquetes javascript
-- [astro v4]() como framework web
-- [typescript]() como super conjunto de javascript
-
+- [pnpm v4](https://pnpm.io) como gestor de paquetes javascript
+- [astro v4](https://astro.build) como framework web
+- [typescript](https://www.typescriptlang.org) como super conjunto de javascript
 
 ## 🚀 Estructura del proyecto
 
